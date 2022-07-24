@@ -16,7 +16,7 @@ activity - The type of activity performed when the corresponding measurements we
  -LAYING (value 6): subject was laying down during the test
 
 
-##Measurements (data fields)
+# Measurements (data fields)
 
 tBodyAccMeanX
 tBodyAccMeanY
